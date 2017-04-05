@@ -20,8 +20,7 @@ app.get('/', function (req, res) {
 
 // for get request
 app.get('/webhook/', function (req, res) {
-  console.log(req);
-  res.send(req);
+  res.send(req.headers['user-agent']);
 })
 
 // for POST request
