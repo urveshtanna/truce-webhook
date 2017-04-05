@@ -9,7 +9,7 @@
 - Test it on Postman:
 
 ```
-url : https://radiant-harbor-23121.herokuapp.com/webhook/
+url : https://recoil-webhook.herokuapp.com/webhook/
 
 method : POST
 body :
@@ -27,6 +27,6 @@ or
 
 - Test `GET` request on browser
 
-[https://radiant-harbor-23121.herokuapp.com/webhook/](https://radiant-harbor-23121.herokuapp.com/webhook/)
+[https://recoil-webhook.herokuapp.com/webhook/](https://recoil-webhook.herokuapp.com/webhook/)
 
 
